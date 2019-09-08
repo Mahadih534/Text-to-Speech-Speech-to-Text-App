@@ -1,0 +1,10 @@
+C:\Users\mahadi\source\repos\TextToSpech\TextToSpech\bin\Debug\TextToSpech.exe.config
+C:\Users\mahadi\source\repos\TextToSpech\TextToSpech\bin\Debug\TextToSpech.exe
+C:\Users\mahadi\source\repos\TextToSpech\TextToSpech\bin\Debug\TextToSpech.pdb
+C:\Users\mahadi\source\repos\TextToSpech\TextToSpech\obj\Debug\TextToSpech.csprojAssemblyReference.cache
+C:\Users\mahadi\source\repos\TextToSpech\TextToSpech\obj\Debug\TextToSpech.Form1.resources
+C:\Users\mahadi\source\repos\TextToSpech\TextToSpech\obj\Debug\TextToSpech.Properties.Resources.resources
+C:\Users\mahadi\source\repos\TextToSpech\TextToSpech\obj\Debug\TextToSpech.csproj.GenerateResource.cache
+C:\Users\mahadi\source\repos\TextToSpech\TextToSpech\obj\Debug\TextToSpech.csproj.CoreCompileInputs.cache
+C:\Users\mahadi\source\repos\TextToSpech\TextToSpech\obj\Debug\TextToSpech.exe
+C:\Users\mahadi\source\repos\TextToSpech\TextToSpech\obj\Debug\TextToSpech.pdb
